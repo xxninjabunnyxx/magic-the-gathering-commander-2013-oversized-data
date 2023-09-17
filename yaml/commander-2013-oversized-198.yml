@@ -1,0 +1,127 @@
+---
+object: card
+id: bd139009-fe5d-4189-8cde-a68ede6283fc
+oracle_id: fae87115-8749-4d25-a594-7139dd01a034
+multiverse_ids: []
+tcgplayer_id: 80121
+cardmarket_id: 265354
+name: Marath, Will of the Wild
+lang: en
+released_at: '2013-11-01'
+uri: https://api.scryfall.com/cards/bd139009-fe5d-4189-8cde-a68ede6283fc
+scryfall_uri: https://scryfall.com/card/oc13/198/marath-will-of-the-wild?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/d/bd139009-fe5d-4189-8cde-a68ede6283fc.jpg?1561813386
+  normal: https://cards.scryfall.io/normal/front/b/d/bd139009-fe5d-4189-8cde-a68ede6283fc.jpg?1561813386
+  large: https://cards.scryfall.io/large/front/b/d/bd139009-fe5d-4189-8cde-a68ede6283fc.jpg?1561813386
+  png: https://cards.scryfall.io/png/front/b/d/bd139009-fe5d-4189-8cde-a68ede6283fc.png?1561813386
+  art_crop: https://cards.scryfall.io/art_crop/front/b/d/bd139009-fe5d-4189-8cde-a68ede6283fc.jpg?1561813386
+  border_crop: https://cards.scryfall.io/border_crop/front/b/d/bd139009-fe5d-4189-8cde-a68ede6283fc.jpg?1561813386
+mana_cost: "{R}{G}{W}"
+cmc: 3.0
+type_line: Legendary Creature — Elemental Beast
+oracle_text: |-
+  Marath, Will of the Wild enters the battlefield with a number of +1/+1 counters on it equal to the amount of mana spent to cast it.
+  {X}, Remove X +1/+1 counters from Marath: Choose one —
+  • Put X +1/+1 counters on target creature. X can't be 0.
+  • Marath deals X damage to any target. X can't be 0.
+  • Create an X/X green Elemental creature token. X can't be 0.
+power: '0'
+toughness: '0'
+colors:
+- G
+- R
+- W
+color_identity:
+- G
+- R
+- W
+keywords: []
+all_parts:
+- object: related_card
+  id: c5ad13b4-bbf5-4c98-868f-4d105eaf8833
+  component: token
+  name: Elemental
+  type_line: Token Creature — Elemental
+  uri: https://api.scryfall.com/cards/c5ad13b4-bbf5-4c98-868f-4d105eaf8833
+- object: related_card
+  id: 57afa796-db46-45ff-91bd-f02922e5f33d
+  component: combo_piece
+  name: Marath, Will of the Wild
+  type_line: Legendary Creature — Elemental Beast
+  uri: https://api.scryfall.com/cards/57afa796-db46-45ff-91bd-f02922e5f33d
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: true
+promo: false
+reprint: true
+variation: false
+set_id: '03542833-6773-414f-992d-be88b65238af'
+set: oc13
+set_name: Commander 2013 Oversized
+set_type: memorabilia
+set_uri: https://api.scryfall.com/sets/03542833-6773-414f-992d-be88b65238af
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aoc13&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/oc13?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/bd139009-fe5d-4189-8cde-a68ede6283fc/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afae87115-8749-4d25-a594-7139dd01a034&unique=prints
+collector_number: '198'
+digital: false
+rarity: mythic
+card_back_id: 597b79b3-7d77-4261-871a-60dd17403388
+artist: Tyler Jacobson
+artist_ids:
+- 522af130-8db4-4b4b-950c-6e2b246339cf
+illustration_id: 852bf25c-29e8-4fab-a033-35f88cfdc017
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 10140
+prices:
+  usd: 
+  usd_foil: '0.47'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.49'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Marath%2C+Will+of+the+Wild&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Marath%2C+Will+of+the+Wild&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Marath%2C+Will+of+the+Wild
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/80121?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Marath%2C+Will+of+the+Wild&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Marath%2C+Will+of+the+Wild&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
